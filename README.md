@@ -1,6 +1,5 @@
-#Basic Automation Project
+#Multi Automation Project
 
-Basic Java  Automation Project
 
 *QA
 *Java
